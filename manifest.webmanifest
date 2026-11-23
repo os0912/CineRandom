@@ -1,0 +1,17 @@
+{
+  "name": "CineRandom",
+  "short_name": "CineRandom",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#100f0d",
+  "theme_color": "#100f0d",
+  "description": "Descubrí tu próxima película",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
